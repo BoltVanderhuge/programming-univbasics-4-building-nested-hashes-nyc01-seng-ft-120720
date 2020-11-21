@@ -30,7 +30,7 @@ base = {
        :b_and_o_railroad => {},
        :shortline_railroad => {}
      }
-   }
+   
 }
 
 end
